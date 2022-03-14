@@ -53,7 +53,7 @@ const MainPage = ({ setIsModalShow, setShoppingCartModalIsShow }) => {
 
   return (
     <Navbar className="NavBar">
-      <span className="NavBarText">Management Chuwa</span>
+      <span className="NavBarText">Shopping Management System</span>
       <input
         style={{ width: 500 }}
         type="search"
