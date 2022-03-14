@@ -1,0 +1,4 @@
+.editpage {
+  display: flex;
+  flex-direction: row;
+}

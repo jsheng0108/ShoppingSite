@@ -1,0 +1,27 @@
+.productItemContanier {
+  background: #ffffff;
+  border: 3px solid gray;
+  display: flex;
+  flex-direction: column;
+  width: 230px;
+  height: 300px;
+  margin-right: 30px;
+  margin-top: 15px;
+}
+
+.productImage {
+  width: auto;
+  height: 150px;
+}
+
+.buttons {
+  margin-right: 10px;
+}
+
+.productDesc {
+  margin-left: 5px;
+}
+
+.productName {
+  height: 60px;
+}

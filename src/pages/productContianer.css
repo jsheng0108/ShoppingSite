@@ -1,0 +1,41 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  flex-direction: row;
+}
+
+.dropdown {
+  margin-right: 10px;
+}
+
+.title {
+  font-family: "Times New Roman", Times, serif;
+  font-size: xx-large;
+  font-weight: 600;
+}
+
+.productList {
+  display: flex;
+  direction: column;
+  flex-wrap: wrap;
+  margin-left: 100px;
+}
+.item {
+  margin-bottom: 10px;
+}
+
+.paginationBlock {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 10px;
+  margin-top: 15px;
+}
+
+.productPage {
+  height: 80vh;
+  justify-content: space-between;
+  display: flex;
+  flex-direction: column;
+}
